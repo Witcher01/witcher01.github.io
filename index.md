@@ -1,6 +1,6 @@
 # about this
 
-This is a work in progress wiki collection of mine.\
+This is a work in progress wiki collection of mine.  
 I don't guarantee that the info in here is correct in any way.
 
 This website will work without JavaScript, so feel free to disable it. I'm also trying to keep this website as accessible and lightweight as possible, so don't expect to see any pictures here.
