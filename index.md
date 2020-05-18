@@ -3,8 +3,6 @@
 [offlineimap](offlineimap.md)
 [tmpfs](tmpfs.md)
 
-[plugins](vim/plugins)
-[til](vim/til)
 [til-index](vim/TILs.md)
 
 [snipmate](vim/plugins/snipmate.md)
