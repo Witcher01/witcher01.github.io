@@ -32,3 +32,10 @@ This website will work without JavaScript, so feel free to disable it. I'm also 
 
 ### os
 - [memory allocation](compsci/os/memory_allocation.md)
+
+## speedrunning
+### mirrors edge
+- [Mirror's Edge Community Resources](https://docs.google.com/spreadsheets/d/1R00rRbIubHUYBG7zEUSIiIWqkNIdeanexfOiNgMX8pc/edit)
+- [Mirror's Edge Community Split Times](https://docs.google.com/spreadsheets/d/1sRDT1Zmhdd9l7crM3qbWnfXmAtvAduYSbHaMrAASlIo/edit#gid=1902793822)
+- [Custom Maps Records](http://medge.info/)
+- [Mirror's Edge Database (old forum)](http://medb.faith/)
