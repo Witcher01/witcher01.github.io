@@ -28,7 +28,7 @@ This website will work without JavaScript, so feel free to disable it. I'm also 
 
 ## compsci
 ### c
-- [built-in functions for atomic memory access](compsci/c/Built-in functions for atomic memory access.md)
+- [built-in_functions_for_atomic_memory_access](compsci/c/Built-in_functions_for_atomic_memory_access.md)
 
 ### os
-- [memory allocation](compsci/os/memory allocation.md)
+- [memory allocation](compsci/os/memory_allocation.md)
