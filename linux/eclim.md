@@ -15,3 +15,5 @@ Once the eclim daemon is started, vim should be able to talk to the server. Ping
 - Open a project: `ProjectOpen <project_name>`
 - Proper completion: `Ctrl-X Ctrl-U`
 - Build and run your project: `:Java`
+- Create a new {class,interface,enum,...}: `:ProjectNew <type> package.name`
+- Manage imports (remove, sort, add): `:JavaImportOrganize`
