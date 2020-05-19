@@ -1,4 +1,4 @@
-# linux: tmpfs
+# tmpfs
 
 ## Description
 [tmpfs](https://wiki.archlinux.org/index.php/tmpfs) is a temporary filesystem on linux that purely resides in RAM. It can be used to significantly speed up file access or reduce read/write operations on a hard drive.

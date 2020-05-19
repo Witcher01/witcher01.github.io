@@ -1,4 +1,4 @@
-# linux: arch-config
+# arch-config
 
 ## Mirror List
 Location: `/etc/pacman.d/mirrorlist`

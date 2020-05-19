@@ -1,4 +1,4 @@
-# compsci:operating systems: memory allocation
+# memory allocation
 
 ## Basics
 In order to use the heap, memory has to be allocated. In the programming language _C_, this memory is usually allocated via a call to a library function.
