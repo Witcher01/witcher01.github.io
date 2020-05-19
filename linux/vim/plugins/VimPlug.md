@@ -15,6 +15,6 @@ call plug#begin('~/.vim/plugged')
 Plug 'vimwiki/vimwiki'
 call plug#end()
 ```
-To install plugins once you listed them in your .vimrc, execute the command `:PlugInstall` in vim.\
-To deinstall a plugin, remove it from your .vimrc and execute `:PlugClean`.\
+To install plugins once you listed them in your .vimrc, execute the command `:PlugInstall` in vim...
+To deinstall a plugin, remove it from your .vimrc and execute `:PlugClean`...
 If you want to update your plugins, type `:PlugUpdate`.

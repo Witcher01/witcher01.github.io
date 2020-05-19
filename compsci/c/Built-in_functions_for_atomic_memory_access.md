@@ -1,6 +1,6 @@
 # [Built-in functions for atomic memory access](https://gcc.gnu.org/onlinedocs/gcc-4.1.1/gcc/Atomic-Builtins.html)
 
-Using a semaphore requires an atomic operation, so that a deadlock cannot occur. The **Intel Itanium Processor-specific Application Binary Interface** specifies some built-ins that are atomic operations.\
+Using a semaphore requires an atomic operation, so that a deadlock cannot occur. The **Intel Itanium Processor-specific Application Binary Interface** specifies some built-ins that are atomic operations...
 There are built-ins for a few functionalities, but these are the most imporant:
 
 - add, sub, or, and, xor, nand
@@ -38,5 +38,5 @@ These functions take 3 arguments:
 - a value `oldval` which is the value before the swap
 - and a value `newval` which is the new value after swapping
 
-These functions compare the current value of `ptr` to `oldval` and if they are the same, `newval` is being written to `ptr`.\
+These functions compare the current value of `ptr` to `oldval` and if they are the same, `newval` is being written to `ptr`...
 The two types are different in the way that the first type returns a `bool` if the comparison is successful and `newval` is written into `ptr` and the second type returns the content of `ptr` before the operation.

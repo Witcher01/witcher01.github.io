@@ -6,7 +6,7 @@ As explained in the book [_Operating Systems: Three Easy Pieces_](http://ostep.o
 
 ### Strategies
 The following strategies are all based on the concept of a _free-list_. The nodes of such a list are pointers to free segments. Usually every segment is preceeded by a _header_, which, among other things, contains the size of the following block of space and if it is used or not.
-In the following strategies I will not talk about the concept of a header to focus on how the strategy works.\
+In the following strategies I will not talk about the concept of a header to focus on how the strategy works...
 There are several basic strategies found in the previously named book. These are as follows:
 
 #### Best fit
