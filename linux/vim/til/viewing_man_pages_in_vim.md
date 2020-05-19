@@ -4,7 +4,7 @@ Vim has a "built-in" functionality of displaying man pages. To activate this, ad
 ```
 runtime ftplugin/man.vim
 ```
-This will load a standard plugin shipped with vim. You are now able to view the man page of a command with the vim command `:Man`. For example, if you want to know what the c functin `sbrk` does, type
+This will load a standard plugin shipped with vim. You are now able to view the man page of a command with the vim command `:Man`. For example, if you want to know what the c function `sbrk` does, type
 ```
 :Man 2 sbrk
 ```
