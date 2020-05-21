@@ -13,6 +13,7 @@ This website will work without JavaScript, so feel free to disable it. I'm also 
 - [eclim](linux/eclim.md) - eclim, a headless eclipse instance for vim
 - [offlineimap](linux/offlineimap.md) - how my imap syncing setup works
 - [msmtp](linux/msmtp.md) - commandline smtp client
+- [neomutt]() - coming soon, hopefully
 - [tmpfs](linux/tmpfs.md) - a bit about tmpfs
 
 ### vim
