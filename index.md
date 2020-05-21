@@ -12,6 +12,7 @@ This website will work without JavaScript, so feel free to disable it. I'm also 
 - [arch-config](linux/arch-config.md) - my arch linux installation setup
 - [eclim](linux/eclim.md) - eclim, a headless eclipse instance for vim
 - [offlineimap](linux/offlineimap.md) - how my imap syncing setup works
+- [msmtp](linux/msmtp.md) - commandline smtp client
 - [tmpfs](linux/tmpfs.md) - a bit about tmpfs
 
 ### vim
@@ -31,7 +32,7 @@ This website will work without JavaScript, so feel free to disable it. I'm also 
 - [built-in_functions_for_atomic_memory_access](compsci/c/Built-in_functions_for_atomic_memory_access.md)
 
 ### os
-- [memory allocation](compsci/os/memory_allocation.md)
+- [memory_allocation](compsci/os/memory_allocation.md)
 
 ## speedrunning
 ### mirrors edge
